@@ -1,13 +1,13 @@
 
-## Privacy Policy for NINI Bot
+## Privacy Policy for Eleven Bot
 
 
 
 ### Introduction
-Welcome to NINI, your minimalist music companion on Discord. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we handle your data when you use NINI.
+Welcome to Eleven, your minimalist music companion on Discord. We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you about how we handle your data when you use Eleven.
 
 ### Data We Collect
-NINI collects the following types of data to provide and improve its services:
+Eleven collects the following types of data to provide and improve its services:
 
 1. **User Commands and Message Content:**
    - Data: Commands issued to the bot (e.g., play, pause, skip) and song requests.
@@ -23,8 +23,8 @@ NINI collects the following types of data to provide and improve its services:
 
 ### How We Use Your Data
 We use the collected data to:
-- Provide, operate, and maintain NINI.
-- Improve, personalize, and expand NINI’s features.
+- Provide, operate, and maintain Eleven.
+- Improve, personalize, and expand Eleven’s features.
 - Communicate with users about updates, security alerts, and other necessary information.
 
 ### Data Sharing and Disclosure
@@ -47,6 +47,6 @@ We implement appropriate technical and organizational measures to protect your d
 We may update our privacy policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the "Last Updated" date.
 
 ### Contact Us
-If you have any questions or concerns about this privacy policy, please contact us at: [Your Contact Information]
+If you have any questions or concerns about this privacy policy, please contact us at: [discord](https://discord.gg/teamkronix)
 
-By using NINI, you agree to the collection and use of information in accordance with this privacy policy.
+By using Eleven, you agree to the collection and use of information in accordance with this privacy policy.
